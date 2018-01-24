@@ -1,0 +1,27 @@
+c:\users\sheryl\documents\visual studio 2015\Projects\CSC236_ssouthwick_PC13_ SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\bin\Debug\CSC236_ssouthwick_PC13_ SlotMachine.exe.config
+c:\users\sheryl\documents\visual studio 2015\Projects\CSC236_ssouthwick_PC13_ SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.csprojResolveAssemblyReference.cache
+c:\users\sheryl\documents\visual studio 2015\Projects\CSC236_ssouthwick_PC13_ SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13__SlotMachine.SlotMachine.resources
+c:\users\sheryl\documents\visual studio 2015\Projects\CSC236_ssouthwick_PC13_ SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13__SlotMachine.Properties.Resources.resources
+c:\users\sheryl\documents\visual studio 2015\Projects\CSC236_ssouthwick_PC13_ SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.csproj.GenerateResource.Cache
+c:\users\sheryl\documents\visual studio 2015\Projects\CSC236_ssouthwick_PC13_ SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\bin\Debug\CSC236_ssouthwick_PC13_ SlotMachine.exe
+c:\users\sheryl\documents\visual studio 2015\Projects\CSC236_ssouthwick_PC13_ SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\bin\Debug\CSC236_ssouthwick_PC13_ SlotMachine.pdb
+c:\users\sheryl\documents\visual studio 2015\Projects\CSC236_ssouthwick_PC13_ SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.exe
+c:\users\sheryl\documents\visual studio 2015\Projects\CSC236_ssouthwick_PC13_ SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.pdb
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_Old\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\bin\Debug\CSC236_ssouthwick_PC13_ SlotMachine.exe.config
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_Old\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.exe
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_Old\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.pdb
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_Old\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\bin\Debug\CSC236_ssouthwick_PC13_ SlotMachine.exe
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_Old\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\bin\Debug\CSC236_ssouthwick_PC13_ SlotMachine.pdb
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_Old\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.csprojResolveAssemblyReference.cache
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_Old\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13__SlotMachine.SlotMachine.resources
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_Old\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13__SlotMachine.Properties.Resources.resources
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_Old\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.csproj.GenerateResource.Cache
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_C#1\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\bin\Debug\CSC236_ssouthwick_PC13_ SlotMachine.exe.config
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_C#1\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.exe
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_C#1\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.pdb
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_C#1\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\bin\Debug\CSC236_ssouthwick_PC13_ SlotMachine.exe
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_C#1\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\bin\Debug\CSC236_ssouthwick_PC13_ SlotMachine.pdb
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_C#1\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.csprojResolveAssemblyReference.cache
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_C#1\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13__SlotMachine.SlotMachine.resources
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_C#1\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13__SlotMachine.Properties.Resources.resources
+C:\Users\Sheryl\Documents\Visual Studio 2015\Projects_C#1\SlotMachine\CSC236_ssouthwick_PC13_ SlotMachine\obj\Debug\CSC236_ssouthwick_PC13_ SlotMachine.csproj.GenerateResource.Cache
